@@ -3,7 +3,7 @@ const db = require('../models');
 
 // console.log('db_connection', process.env.MONGODB_URI)
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout', {
+mongoose.connect("mongodb+srv://susan:mh7ohWpxvadIB7W3@cluster0.yxd3a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true,
