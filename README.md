@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+For this assignment, you'll create a workout tracker. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
 
 ## How to install
@@ -11,7 +11,7 @@ For this assignment, you'll create a workout tracker. You have already been prov
 * npm install pakages from pakage.json
 * node seeds/index.js run seeds DB
 * npm start
-* deploy app on heroku
+* deploy app on heroku https://fitnesstracker-mongoose123.herokuapp.com/
 
 
 ## Prequisites
