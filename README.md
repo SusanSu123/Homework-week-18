@@ -11,7 +11,7 @@ For this assignment, you'll create a workout tracker. This assignment will requi
 * npm install pakages from pakage.json
 * node seeds/index.js run seeds DB
 * npm start
-* deploy app on heroku https://fitnesstracker-mongoose123.herokuapp.com/
+* deploy app on heroku https://fitness-tracker-mongoose-susan.herokuapp.com/
 
 
 ## Prequisites
