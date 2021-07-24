@@ -5,7 +5,7 @@ For this assignment, you'll create a workout tracker. This assignment will requi
 
 ## How to install
 
-* Git clone https://github.com/SusanSu123/Homework-week-18.git
+* Git clone https://github.com/SusanSu123/Nosql-Workout-Tracker.git
 * npm install pakages from pakage.json
 * node seeds/index.js run seeds DB
 * npm start
